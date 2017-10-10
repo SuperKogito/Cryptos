@@ -30,11 +30,11 @@ python3 main.py
 ```
 ## Screenshots
 ![](Screenshots/Cryptos_116.png)
-![](Screenshots/Cryptos_113.png)
-![](Screenshots/Cryptos_112.png)
-![](Screenshots/Cryptos_111.png)
 ![](Screenshots/Cryptos_115.png)
-
+![](Screenshots/Cryptos_112.png)
+![](Screenshots/Cryptos_113.png)
+![](Screenshots/Cryptos_111.png)
+![](Screenshots/Cryptos_114.png)
 
 ## Built With
 * [Spyder3](http://pythonhosted.org/spyder/)
